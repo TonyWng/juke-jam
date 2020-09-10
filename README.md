@@ -12,5 +12,6 @@ Built with
 - Express/Node.js
 - SocketIO
 - React
+- Redux
 - Semantic UI
 - MongoDB
